@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-image:linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.5)), url(iron-throne.jpg);
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+    float: center;
+    margin-left: 20px;
+    margin-top: 250px;
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-size: 75px;
+    font-family: "Times New Roman";
+}
+
+h3{
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: grey;
+    font-size: 90px;
+    font-family: "Trajan Pro";
+}
+
+p{
+    text-align: center;
+    margin-left: 20px;
+    font-size: 30px;
+    color: white;
+    font-family: "Josefin Slab";
+}
